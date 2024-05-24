@@ -114,7 +114,4 @@ This project deploys an AWS Lex V2 chatbot for analyzing IoT data stored in an S
 
 The project lays the foundation for future enhancements, suggesting integration possibilities with Amazon Kinesis and AWS IoT Core for a more dynamic and real-time chatbot experience.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
